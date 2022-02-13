@@ -1,21 +1,21 @@
 from django.db import models
 
 WEIGHT_CHOICES = (
-    (0, 'super-heavy'),
-    (1, 'heavy'),
-    (2, 'heavy-middle'),
-    (3, 'middle'),
-    (4, 'middle-light'),
-    (5, 'light'),
-    (6, 'super-light')
+    ('0', 'super-heavy'),
+    ('1', 'heavy'),
+    ('2', 'heavy-middle'),
+    ('3', 'middle'),
+    ('4', 'middle-light'),
+    ('5', 'light'),
+    ('6', 'super-light')
 )
 
 SERIES_CHOICES = (
-    (1, '64'),
-    (2, 'melee'),
-    (3, 'brawl'),
-    (4, 'for'),
-    (5, 'ultimate')
+    ('1', '64'),
+    ('2', 'melee'),
+    ('3', 'brawl'),
+    ('4', 'for'),
+    ('5', 'ultimate')
 )
 
 class CharacterModel(models.Model):
