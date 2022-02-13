@@ -1,0 +1,110 @@
+{
+    "id": 1,
+    "name": "Mario",
+    "category": "64",
+    "image": "http://127.0.0.1:8000/media/mario.png",
+    "type": "middle",
+    "weight": 98,
+    "walk_spead": 1.155,
+    "dash_speed": 1.76,
+    "step_speed": 1.936
+},
+{
+    "id": 2,
+    "name": "link",
+    "category": "64",
+    "image": "http://127.0.0.1:8000/media/link.png",
+    "type": "heavy-middle",
+    "weight": 104,
+    "walk_spead": 1.247,
+    "dash_speed": 1.534,
+    "step_speed": 1.98
+},
+{
+    "id": 3,
+    "name": "Bowser",
+    "category": "DX",
+    "image": "http://127.0.0.1:8000/media/bowser.png",
+    "type": "super-heavy",
+    "weight": 135,
+    "walk_spead": 0.901,
+    "dash_speed": 1.971,
+    "step_speed": 2.255
+},
+{
+    "id": 4,
+    "name": "Roy",
+    "category": "DX",
+    "image": "http://127.0.0.1:8000/media/roy.png",
+    "type": "middle",
+    "weight": 95,
+    "walk_spead": 1.208,
+    "dash_speed": 2.145,
+    "step_speed": 2.2
+},
+{
+    "id": 5,
+    "name": "R.O.B.",
+    "category": "X",
+    "image": "http://127.0.0.1:8000/media/rob.png",
+    "type": "heavy",
+    "weight": 106,
+    "walk_spead": 1.178,
+    "dash_speed": 1.725,
+    "step_speed": 2.002
+},
+{
+    "id": 6,
+    "name": "Paltena",
+    "category": "For",
+    "image": "http://127.0.0.1:8000/media/paltena.png",
+    "type": "middle-light",
+    "weight": 91,
+    "walk_spead": 1.271,
+    "dash_speed": 2.077,
+    "step_speed": 2.035
+},
+{
+    "id": 7,
+    "name": "Inkling",
+    "category": "SP",
+    "image": "http://127.0.0.1:8000/media/inkling.png",
+    "type": "middle",
+    "weight": 94,
+    "walk_spead": 1.134,
+    "dash_speed": 1.925,
+    "step_speed": 2.118
+},
+{
+    "id": 8,
+    "name": "Byleth",
+    "category": "SP",
+    "image": "http://127.0.0.1:8000/media/byleth.png",
+    "type": "middle",
+    "weight": 97,
+    "walk_spead": 0.78,
+    "dash_speed": 1.43,
+    "step_speed": 1.8
+},
+{
+    "id": 9,
+    "name": "Hero",
+    "category": "SP",
+    "image": "http://127.0.0.1:8000/media/hero.png",
+    "type": "heavy-middle",
+    "weight": 101,
+    "walk_spead": 0.98,
+    "dash_speed": 1.84,
+    "step_speed": 1.88
+},
+{
+    "id": 10,
+    "name": "Yoshi",
+    "category": "64",
+    "image": "http://127.0.0.1:8000/media/yoshi.png",
+    "type": "heavy-middle",
+    "weight": 104,
+    "walk_spead": 1.208,
+    "dash_speed": 2.046,
+    "step_speed": 1.98
+}
